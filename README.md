@@ -1,2 +1,0 @@
-# BitChainBind
-bit chain bind. 
